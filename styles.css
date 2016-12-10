@@ -519,6 +519,16 @@ section {
   cursor: pointer;
 }
 
+.monster {
+  background-image: url("/img/sponsors/monster.jpg");
+  cursor: pointer;
+}
+
+.5he-logo {
+  background-image: url("/img/sponsors/5he-logo.png");
+  cursor: pointer;
+}
+
 .two-sig-cropped {
   background-image: url("../img/sponsors/2sig-cropped.png"); }
 
