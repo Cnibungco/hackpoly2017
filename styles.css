@@ -519,14 +519,6 @@ section {
   cursor: pointer;
 }
 
-.monster {
-  background-image: url("/img/monster.jpg");
-}
-
-.5he {
-  background-image: url("/img/5he.png");
-}
-
 .two-sig-cropped {
   background-image: url("../img/sponsors/2sig-cropped.png"); }
 
@@ -599,6 +591,14 @@ section {
 
 .digitalocean {
   background-image: url("../img/digitalocean.png"); }
+
+.monster_energy {
+  background-image: url("img/monster_energy.jpg");
+}
+
+.five-hour {
+  background-image: url("img/five-hour.png");
+}
 
 .ibm {
   background-image: url("../img/sponsors/ibm.svg");
