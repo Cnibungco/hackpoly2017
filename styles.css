@@ -520,13 +520,11 @@ section {
 }
 
 .monster {
-  background-image: url("/img/sponsors/monster.jpg");
-  cursor: pointer;
+  background-image: url("/img/monster.jpg");
 }
 
-.5he-logo {
-  background-image: url("/img/sponsors/5he-logo.png");
-  cursor: pointer;
+.5he {
+  background-image: url("/img/5he.png");
 }
 
 .two-sig-cropped {
