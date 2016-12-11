@@ -604,6 +604,14 @@ section {
 .digitalocean {
   background-image: url("../img/digitalocean.png"); }
 
+.monster_energy {
+  background-image: url("img/monster_energy.jpg");
+}
+
+.five-hour {
+  background-image: url("img/five-hour.png");
+}
+
 .ibm {
   background-image: url("../img/sponsors/ibm.svg");
   cursor: pointer;
@@ -617,6 +625,14 @@ section {
 .square {
   background-image: url("img/square.png"); }
 
+.logo_JetBrains_4{
+  background-image: url("img/logo_JetBrains_4.png");}
+
+.Obsidian-Entertainment-logo{
+  background-image: url("img/Obsidian-Entertainment-logo.png");
+}
+
+}
 .wolframalpha {
   background-image: url("../img/sponsors/wolframalpha.png"); }
 
