@@ -1,3 +1,15 @@
+@font-face {
+  font-family: 'Avenir Bold';
+  src: url("/avenir/AvenirNextLTPro-Bold.otf")format("opentype");
+}
+@font-face {
+  font-family: 'Avenir';
+  src: url("/avenir/AvenirNextLTPro-Regular.otf")format("opentype");
+}
+@font-face {
+  font-family: 'Avenir Demi';
+  src: url("/avenir/AvenirNextLTPro-Demi.otf")format("opentype");
+}
 body, html {
   margin: 0;
   padding: 0; }
@@ -16,7 +28,7 @@ img {
   width: auto; }
 
 h1, h2, h3 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Avenir Bold', sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   color: white;
@@ -40,7 +52,7 @@ h2 {
       font-size: 20px; } }
 
 p, span, a, li, td, th {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Avenir', 'Open Sans', sans-serif;
   font-weight: 400;
   color: #515151;
   font-size: 16px; }
@@ -80,7 +92,7 @@ section {
     text-align: justify; }
 
 .section-accent {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Avenir Demi, 'Open Sans', sans-serif;
   font-weight: 300;
   font-size: 18px;
   color: #2ecc71; }
@@ -126,7 +138,7 @@ section {
   -webkit-justify-content: space-between;
   justify-content: space-between; }
   #nav-menu a {
-    font-family: Open Sans, sans-serif;
+    font-family: 'Avenir Bold', sans-serif;
     font-size: 14px;
     text-transform: uppercase;
     padding: 5px;
