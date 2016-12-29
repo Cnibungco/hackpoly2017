@@ -517,6 +517,10 @@ section {
   cursor: pointer;
 }
 
+.Farmers {
+background-image: url("img/Farmers.png");
+}
+
 .delphix {
   background-image: url("../img/sponsors/delphix.png"); }
 
