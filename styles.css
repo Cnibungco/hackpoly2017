@@ -517,10 +517,6 @@ section {
   cursor: pointer;
 }
 
-.Farmers {
-background-image: url("img/Farmers.png");
-}
-
 .delphix {
   background-image: url("../img/sponsors/delphix.png"); }
 
@@ -610,6 +606,10 @@ background-image: url("img/Farmers.png");
 
 .monster_energy {
   background-image: url("img/monster_energy.jpg");
+}
+
+.farmers {
+background-image: url("img/Farmers.png");
 }
 
 .five-hour {
