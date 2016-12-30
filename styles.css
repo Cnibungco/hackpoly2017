@@ -445,7 +445,7 @@ section {
   flex-wrap: wrap;
   margin-bottom: 20px; }
 
-.sponsor-logo, .sponsor-logo-square, .sponsor-logo-large, .sponsor-logo-general {
+.sponsor-logo, .sponsor-logo-square, .sponsor-logo-large, .sponsor-logo-general,.sponsor-logo-big {
   display: inline-block;
   margin: 0px 15px 15px 15px;
   background-size: contain;
@@ -460,7 +460,7 @@ section {
 
 .sponsor-logo-square {
   width: 75px;
-  height: 75px; }
+  height:75px; }
 
 .sponsor-logo-large {
   width: 200px;
@@ -468,7 +468,12 @@ section {
 
 .sponsor-logo-general {
   width: 150px;
-  height: 75px; }
+  height: 112px; }
+
+.sponsor-logo-big{
+  width: 225px;
+  height: 150px;
+}
 
 .sponsor-desc {
   display:none;
