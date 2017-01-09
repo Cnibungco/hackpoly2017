@@ -625,6 +625,10 @@ background-image: url("img/farmers_logo.png");
   background-image: url("img/guidebook.png");
 }
 
+.stickermule {
+  background-image: url("img/stickermule.png");
+}
+
 .swift-logo {
   background-image: url("img/swift.png");
 }
