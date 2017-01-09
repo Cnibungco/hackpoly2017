@@ -629,6 +629,14 @@ background-image: url("img/farmers_logo.png");
   background-image: url("img/stickermule.png");
 }
 
+.asi{
+  background-image: url(img/logo.png);
+}
+
+.ieee{
+  background-image: url(img/IEEE.png);
+}
+
 .swift-logo {
   background-image: url("img/swift.png");
 }
