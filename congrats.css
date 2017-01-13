@@ -1,21 +1,12 @@
 @font-face {
-  font-family: 'circular';
-  src: url('./fonts/Circular-Book.eot?#iefix') format('embedded-opentype'),  url('./fonts/Circular-Book.woff') format('woff'), url('./fonts/Circular-Book.ttf')  format('truetype'), url('./fonts/Circular-Book.svg#Circular-Book') format('svg');
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'circular';
-  src: url('./fonts/Circular-Medium.eot?#iefix') format('embedded-opentype'),  url('./fonts/Circular-Medium.woff') format('woff'), url('./fonts/Circular-Medium.ttf')  format('truetype'), url('./fonts/Circular-Medium.svg#Circular-Medium') format('svg');
-  font-weight: 700;
-  font-style: normal;
+  font-family: 'Avenir';
+  src: url("/avenir/AvenirNextLTPro-Regular.otf")format("opentype");
 }
 
 * {
   box-sizing: border-box;
 
-  font-family: "circular", sans-serif;
+  font-family: "Avenir", sans-serif;
   line-height: 1.5;
 }
 
