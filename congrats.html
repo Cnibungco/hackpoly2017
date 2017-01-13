@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Congrats on finishing Coding with Coley!</title>
+    <link rel="stylesheet" href="./congrats.css">
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="I just learned how to Code with Coley!" />
+    <meta property="og:site_name" content="Hackpoly"/>
+    <meta property="og:url" content="http://hackpoly.com/congrats/" />
+    <meta property="og:description" content="I just coded a cipher in Python alongside President Coley at Hackpoly's HackMonth workshop." />
+    <meta property="og:image" content="http://hackpoly.com/congrats/og_image.png" />
+  </head>
+
+  <body>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '779321178880961',
+          xfbml      : true,
+          version    : 'v2.5'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+
+      function share() {
+        FB.ui({
+          method: 'share',
+          href: 'http://hackpoly.com/congrats/',
+        }, function(response){});
+      }
+    </script>
+
+    <div class="card card-shadow bottom-shadow">
+      <div class="video">
+
+      </div>
+      <img class="badge" src="./badge.png" width=240>
+      <h1>Congratulations!</h1>
+      <p>Great job Coding with Coley! You're on your way to building lots of fun things.</p>
+
+      <p>To continue learning Python, check out <a href="https://external.codecademy.com/learn/python">Codecademy's Python track</a>, and come to <a href="https://www.facebook.com/events/1891768264443106/">Hackpoly, our annual hackathon</a>! To sign-up for Hackpoly, <a href="http://hackpoly.com">sign up here.</a></p>
+
+      <a id="facebook" onclick="share()">Share on Facebook</a>
+    </div>
+  </body>
+</html>

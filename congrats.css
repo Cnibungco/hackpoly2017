@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'circular';
+  src: url('./fonts/Circular-Book.eot?#iefix') format('embedded-opentype'),  url('./fonts/Circular-Book.woff') format('woff'), url('./fonts/Circular-Book.ttf')  format('truetype'), url('./fonts/Circular-Book.svg#Circular-Book') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'circular';
+  src: url('./fonts/Circular-Medium.eot?#iefix') format('embedded-opentype'),  url('./fonts/Circular-Medium.woff') format('woff'), url('./fonts/Circular-Medium.ttf')  format('truetype'), url('./fonts/Circular-Medium.svg#Circular-Medium') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+
+  font-family: "circular", sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 100vh;
+  color: #323232;
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+a {
+  color: #00B6A7;
+}
+
+.card {
+  position: relative;
+  width: 80%;
+  max-width: 600px;
+
+  padding: 30px;
+  padding-top: 100px;
+  background-color: white;
+}
+
+.card-shadow {
+  border: 0px solid #DDDDDD;
+  box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.07);
+}
+
+.badge {
+  position: absolute;
+
+  left: 30%;
+  transform: translateY(-50%);
+
+  margin-top: -75px;
+}
+
+h1 {
+  text-align: center;
+
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 18px;
+}
+
+#facebook {
+  box-sizing: border-box;
+  display: block;
+  margin: auto;
+  padding: 10px 16px;
+
+  text-align: center;
+
+  cursor: pointer;
+  color: white;
+  background-color: #4469B3;
+  border-radius: 5px;
+  border-bottom: 4px solid #45619E;
+}
+
+#facebook:hover {
+  opacity: 0.98;
+}
+
+#facebook:active {
+  padding: 9px 16px;
+  border-bottom-width: 2px;
+  border-top: 4px solid #45619E;
+}
