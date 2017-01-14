@@ -629,6 +629,10 @@ background-image: url("img/farmers_logo.png");
   background-image: url("img/guidebook.png");
 }
 
+.northrop {
+  background-image: url("img/ng.png");
+}
+
 .stickermule {
   background-image: url("img/stickermule.png");
 }
@@ -668,10 +672,14 @@ background-image: url("img/farmers_logo.png");
 .Obsidian-Entertainment-logo{
   background-image: url("img/Obsidian-Entertainment-logo.png");
 }
+.wolframalpha {
+  background-image: url("img/wolfram.jpg"); 
+}
 
 }
-.wolframalpha {
-  background-image: url("../img/sponsors/wolframalpha.png"); }
+.wolframalph {
+  background-image: url("..img/wolfram.jpg"); 
+}
 
 #s-footer {
   background-color: #27ae60;
