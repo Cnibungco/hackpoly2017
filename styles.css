@@ -246,7 +246,7 @@ section {
 #banner-logo {
   width: 300px;
   margin: 0 auto;
-  margin-top: 75px;
+  margin-top: 50px;
   display: block; }
 
 #banner-info {
@@ -643,7 +643,7 @@ background-image: url("img/farmers_logo.png");
 }
 
 .stickermule {
-  background-image: url("img/stickermule.png");
+  background-image: url("img/sticker.png");
 }
 
 .beat{
@@ -682,14 +682,14 @@ background-image: url("img/farmers_logo.png");
   background-image: url("img/Obsidian-Entertainment-logo.png");
 }
 .SCETA{
-  background-image: url("img/SCETA_LOGO.jpg");
+  background-image: url("img/scetalogo.jpg");
 }
 .gamedev{
-  background-image: url("img/GameDev-02.png");
+  background-image: url("img/gamedev2.png");
 }
 
 .wolframalpha {
-  background-image: url("img/wolframalpha-logo.png"); 
+  background-image: url("img/wolfram.png"); 
 }
 
 }
