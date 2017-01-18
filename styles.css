@@ -246,13 +246,13 @@ section {
 #banner-logo {
   width: 300px;
   margin: 0 auto;
-  margin-top: 50px;
+  margin-top: 25px;
   display: block; }
 
 #banner-info {
   width: 300px;
   margin: 0 auto;
-  margin-top: 25px;
+  margin-top: 0px;
   display: block;
   text-align: center;
   color: white; }
@@ -681,11 +681,11 @@ background-image: url("img/farmers_logo.png");
 .Obsidian-Entertainment-logo{
   background-image: url("img/Obsidian-Entertainment-logo.png");
 }
-.SCETA{
+.sceta{
   background-image: url("img/scetalogo.jpg");
 }
 .gamedev{
-  background-image: url("img/gamedev2.png");
+  background-image: url("img/gamedevlogo.png");
 }
 
 .wolframalpha {
