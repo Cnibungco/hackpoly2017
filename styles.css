@@ -279,6 +279,15 @@ section {
   #apply-btn:hover span {
     color: white; }
 
+#volunteer-btn {
+  background-color: white; }
+  #apply-btn span {
+    color: white; }
+  #apply-btn:hover {
+    background-color: #87B38D; }
+  #apply-btn:hover span {
+    color: white; }
+
 #sponsor-btn {
   background-color: white;
   color: #465362; }
@@ -672,8 +681,15 @@ background-image: url("img/farmers_logo.png");
 .Obsidian-Entertainment-logo{
   background-image: url("img/Obsidian-Entertainment-logo.png");
 }
+.SCETA{
+  background-image: url("img/SCETA_LOGO.jpg");
+}
+.gamedev{
+  background-image: url("img/GameDev-02.png");
+}
+
 .wolframalpha {
-  background-image: url("img/wolfram.jpg"); 
+  background-image: url("img/wolframalpha-logo.png"); 
 }
 
 }
