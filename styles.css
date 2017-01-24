@@ -615,6 +615,10 @@ section {
   cursor: pointer;
 }
 
+.cba-logo {
+  background-image: url("img/cba.jpg");
+}
+
 .digitalocean {
   background-image: url("../img/digitalocean.png"); }
 
