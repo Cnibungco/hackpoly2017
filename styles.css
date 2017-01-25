@@ -702,6 +702,12 @@ background-image: url("img/farmers_logo.png");
 .ibm{
   background-image: url("img/ibm.png");
 }
+.jinzat{
+  background-image:url("img/jinza.png");
+}
+.firehouses{
+  background-image:url("img/firehouse.png");
+}
 .wolframalpha {
   background-image: url("img/wolfram.png"); 
 }
