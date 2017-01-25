@@ -686,12 +686,22 @@ background-image: url("img/farmers_logo.png");
   background-image: url("img/Obsidian-Entertainment-logo.png");
 }
 .sceta{
-  background-image: url("img/scetalogo.jpg");
+  background-image: url("img/scetalogo.png");
 }
 .gamedev{
   background-image: url("img/gamedevlogo.png");
 }
+.pa{
+  background-image: url("img/PALogo.png");
+}
 
+.splunk{
+  background-image: url("img/splk.png");
+}
+
+.ibm{
+  background-image: url("img/ibm.png");
+}
 .wolframalpha {
   background-image: url("img/wolfram.png"); 
 }
