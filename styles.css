@@ -708,6 +708,13 @@ background-image: url("img/farmers_logo.png");
 .firehouses{
   background-image:url("img/firehouse.png");
 }
+.redbull{
+  background-image:url("img/Red_Bull.png");
+}
+.kind{
+  background-image:url("img/KINDLogo_Pantone_Pos.png");
+}
+
 .wolframalpha {
   background-image: url("img/wolfram.png"); 
 }
