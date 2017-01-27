@@ -714,7 +714,9 @@ background-image: url("img/farmers_logo.png");
 .kind{
   background-image:url("img/KINDLogo_Pantone_Pos.png");
 }
-
+.raw{
+  background-image:url("img/rawrev.png");
+}
 .wolframalpha {
   background-image: url("img/wolfram.png"); 
 }
