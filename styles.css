@@ -625,6 +625,10 @@ section {
   background-image: url("img/cba.jpg");
 }
 
+.viewsonic{
+  background-image: url("img/viewsonic.png");
+}
+
 .digitalocean {
   background-image: url("../img/digitalocean.png"); }
 
