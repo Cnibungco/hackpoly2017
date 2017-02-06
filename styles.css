@@ -467,6 +467,19 @@ section {
     -webkit-filter: grayscale(90%);
     opacity: 0.5; }
 
+.schedule-time{
+   -webkit-columns: 100px 1;
+    -moz-columns: 100px 1; 
+    columns: 100px 1;
+    text-align: justify;
+    @media (max-device-width: 860px), (max-width: 860px)
+
+}
+
+.schedule-activity{
+
+
+}
 .sponsor-logo-square {
   width: 75px;
   height:75px; }
